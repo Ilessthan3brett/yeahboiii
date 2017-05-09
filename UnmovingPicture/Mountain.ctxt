@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Mountain(int,\ int)
+comment0.text=\r\n\ This\ will\ create\ a\ mountain\ backdrop\ that\ will\ adjust\ to\ the\ size\ of\ the\ background.\r\n\ \r\n\ @param\ x\ This\ is\ the\ width\ of\ the\ frame.\r\n\ @param\ y\ This\ is\ the\ length\ of\ the\ frame.\r\n
+comment1.params=mgs
+comment1.target=void\ draw(java.awt.Graphics2D)
+comment1.text=\r\n\ The\ Instructions\ that\ will\ create\ your\ mountain\ backdrop.\r\n\ \r\n\ @param\ mgs\ a\ graphics\ context\ \r\n
+numComments=2

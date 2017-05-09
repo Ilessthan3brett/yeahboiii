@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=xValue\ yValue
+comment0.target=Ball(int,\ int)
+comment1.params=
+comment1.target=java.awt.Rectangle\ getHitbox()
+comment2.params=xn\ yn
+comment2.target=void\ changeLocation(int,\ int)
+comment3.params=dx\ dy
+comment3.target=void\ setLocation(int,\ int)
+comment4.params=g2
+comment4.target=void\ draw(java.awt.Graphics2D)
+numComments=5

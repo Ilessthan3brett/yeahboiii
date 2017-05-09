@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=theX\ theY
+comment0.target=UFO(int,\ int)
+comment0.text=\r\n\ @return\ Draws\ you\ an\ awesome\ UFO.\ Or\ does\ it?\r\n\ @param\ theX\ \=\ your\ X\ value\ \r\n\ @param\ theY\ \=\ your\ Y\ value\r\n
+comment1.params=theX\ theY\ theScale
+comment1.target=UFO(int,\ int,\ double)
+comment1.text=\r\n\ @return\ Draws\ you\ a\ ufo\ to\ your\ desired\ size.\ Reccomended\ scale\ is\ 5.\r\n\ @param\ theX\ \=\ your\ X\ value\r\n\ @param\ theY\ \=\ your\ Y\ value\r\n\ @param\ theScale\ \=\ your\ desired\ scale.\ Points\ are\ accepted.\r\n
+comment2.params=g2
+comment2.target=void\ draw(java.awt.Graphics2D)
+comment2.text=\r\n\ Draw\ a\ normal\ ufo.\ As\ normal\ as\ ufos\ get.\r\n\ @return\ normal\ ufo\r\n
+comment3.params=g2
+comment3.target=void\ drawHALLOWEEN(java.awt.Graphics2D)
+comment3.text=\r\n\ Create\ a\ halloweeny\ version\ of\ your\ ufo\!\r\n\ @return\ Halloweeny\ version\r\n
+comment4.params=dx\ dy
+comment4.target=void\ changePosition(int,\ int)
+numComments=5

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Penguin(int,\ int)
+comment1.params=x\ y
+comment1.target=void\ changeLocation(int,\ int)
+comment2.params=dx\ dy
+comment2.target=void\ setLocation(int,\ int)
+comment3.params=g2
+comment3.target=void\ draw(java.awt.Graphics2D)
+numComments=4

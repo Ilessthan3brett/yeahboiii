@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Cup(int,\ int)
+comment1.params=x\ y
+comment1.target=void\ changePosition(int,\ int)
+comment2.params=
+comment2.target=int\ getX()
+comment3.params=
+comment3.target=int\ getY()
+comment4.params=x\ y\ s
+comment4.target=Cup(int,\ int,\ int)
+comment5.params=g2
+comment5.target=void\ draw(java.awt.Graphics2D)
+comment6.params=g2
+comment6.target=void\ drawSelf(java.awt.Graphics2D)
+numComments=7

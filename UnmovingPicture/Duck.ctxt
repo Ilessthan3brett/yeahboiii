@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=xValue\ yValue
+comment0.target=Duck(int,\ int)
+comment1.params=xVal\ yVal
+comment1.target=void\ changePosition(int,\ int)
+comment2.params=g2
+comment2.target=void\ draw(java.awt.Graphics2D)
+numComments=3
